@@ -14,7 +14,9 @@ old_*
 *.log
 *.env
 .env.*
-*local.txt
+*local*.txt
+*local*.sh
+*local*.py
 
 
 
