@@ -1,4 +1,4 @@
-# local
+# local 2025-11-02
 *.csv
 *secret*
 *.key
